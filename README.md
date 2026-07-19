@@ -1,17 +1,9 @@
----
-title: Company Intelligence Dashboard
-emoji: 📊
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
-pinned: false
----
-
 # Company Intelligence Dashboard
 
 AI-powered company intelligence reports across Banking, Healthcare, Retail & Energy sectors.
+
+# Live Demo
+https://company-intelligence-report-jqtom6yroyzztsdltez5ja.streamlit.app/
 
 ## Features
 - Full Intelligence Reports
